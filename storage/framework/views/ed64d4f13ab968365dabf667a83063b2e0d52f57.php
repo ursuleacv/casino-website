@@ -1,0 +1,2 @@
+<a href="<?php echo e(route('frontend.deposits.create')); ?>" class="btn btn-primary btn-sm"><?php echo e(__('Deposit')); ?></a>
+<a href="<?php echo e(route('frontend.withdrawals.create')); ?>" class="btn btn-primary btn-sm"><?php echo e(__('Withdraw')); ?></a>

@@ -1,0 +1,2 @@
+<a href="{{ route('frontend.deposits.create') }}" class="btn btn-primary btn-sm">{{ __('Deposit') }}</a>
+<a href="{{ route('frontend.withdrawals.create') }}" class="btn btn-primary btn-sm">{{ __('Withdraw') }}</a>

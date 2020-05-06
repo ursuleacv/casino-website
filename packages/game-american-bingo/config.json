@@ -1,0 +1,14 @@
+{
+    "id": "game-american-bingo",
+    "name": "75 Ball Bingo game",
+    "description": "This add-on implements American (75 Ball) Bingo game.",
+    "providers": [
+        "Packages\\GameAmericanBingo\\Providers\\PackageServiceProvider"
+    ],
+    "base_path": "game-american-bingo",
+    "source_path": "src",
+    "namespace": "Packages\\GameAmericanBingo\\",
+    "static": {},
+    "purchase_url": "https://codecanyon.net/user/financialtechnology/portfolio",
+    "min_app_version": "1.9.3"
+}
