@@ -1,4 +1,5 @@
-Crypto Casino
--------------
+Laravel Casino Website
 
-Please open documentation/index.html
+Environment:
+PHP v7.x
+Laravel 5.6
